@@ -8,7 +8,7 @@
   A modern, lightweight text editor with a minimalist design.
 </p>
 <p align="center">
-  <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9nhl4nsc67wm">
+  <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9nhl4nsc67wn">
     <img src="https://img.shields.io/badge/Microsoft%20Store-Download-orange.svg?style=flat-square" alt="Store link" />
   </a>
   <a style="text-decoration:none" href="https://github.com/JasonStein/Notepads/releases">
@@ -22,11 +22,11 @@
   </a>
 </p>
 
-## What is Notepads and why do I care?
+## What is Notepad and why do I care?
 
 I have been waiting long enough for a modern Windows 10 notepad app to come before I decided to create one myself. Don’t get me wrong, Notepad++, VS Code, and Sublime are great text editors. I have used them all and I will continue to use them in the future. However, they are either too heavy or looks less appealing. There are times that I just wanted to use Windows notepad for things like writing notes or editing config files. So I decided to create a win32 notepad replacement here and try to give it a modern look and feel. Most importantly, it has to be blazingly fast and appeal to everyone.
 
-So here comes the “Notepads” 🎉 (s stands for Sets).
+So here comes the Notepad.
 
 * Fluent design with a built-in tab system.
 * Blazingly fast and lightweight.
@@ -41,7 +41,7 @@ So here comes the “Notepads” 🎉 (s stands for Sets).
 ![Screenshot DiffViewer](ScreenShots/3.png?raw=true "DiffViewer")
 ![Screenshot Light](ScreenShots/4.png?raw=true "Light")
 
-******* 📣 Notepads App is still under active development. *******
+******* 🎄 Notepad App is still not under active development. *******
 
 ## Status update
 
@@ -67,7 +67,7 @@ So here comes the “Notepads” 🎉 (s stands for Sets).
 
 ## Downloads:
 
-Notepads is available in Microsoft Store. You can get the latest version of Notepads here for free: [Microsoft Store Link](https://www.microsoft.com/store/apps/9nhl4nsc67wm).
+Notepads is available in Microsoft Store. You can get the latest version of Notepads here for free: [Microsoft Store Link](https://www.microsoft.com/store/apps/9nhl4nsc67wn).
 
 You can also use Windows Package Manager to install notepads:
 ```cmd
@@ -117,7 +117,7 @@ You might notice that I work for Microsoft but Notepads is my personal project t
 ## Special Thanks:
 
 * [Yi Zhou](http://zhouyiwork.com/) - App icon designer, Notepads App Icon (old) is greatly inspired by the new icon for Windows Terminal.
-* [Mahmoud Qurashy](https://github.com/mah-qurashy) - App icon and file icon(s) designer, creator of the new Notepads App Icon.
+* [Mahmoud Qurashy](https://github.com/mah-qurashy) - App icon and file icon(s) designer, creator of the new Notepad App Icon.
 
 * Alexandru Sterpu - App Tester, who helped me a lot during preview/beta testing.
 * Code Contributors: [DanverZ](https://github.com/chenghanzou), [BernhardWebstudio](https://github.com/BernhardWebstudio), [Csányi István](https://github.com/AmionSky), [Pavel Erokhin](https://github.com/MairwunNx), [Sergio Pedri](https://github.com/Sergio0694), [Lucas Pinho B. Santos](https://github.com/pinholucas), [Soumya Ranjan Mahunt](https://github.com/soumyamahunt), [Belleve Invis](https://github.com/be5invis), [Maickonn Richard](https://github.com/Maickonn), [Xam](https://github.com/XamDR)
@@ -145,5 +145,5 @@ You might notice that I work for Microsoft but Notepads is my personal project t
 
 [![](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/images/0)](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/links/0)[![](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/images/1)](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/links/1)[![](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/images/2)](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/links/2)[![](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/images/3)](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/links/3)[![](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/images/4)](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/links/4)[![](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/images/5)](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/links/5)[![](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/images/6)](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/links/6)[![](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/images/7)](https://sourcerer.io/fame/JasonStein/JasonStein/Notepads/links/7)
 
-## Stay tuned 📢:
-* [Notepads Discord Server](https://discord.gg/VqetCub)
+## Stay tuned 🎶:
+* [Notepads Discord Server](https://discord.gg/WqetCub)
